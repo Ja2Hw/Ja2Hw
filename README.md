@@ -5,15 +5,10 @@
 <div align="center">
 	<a href="https://ja2hw.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-E33332?style=for-the-badge&logo=tistory&logoColor=white"/></a> 
 <div align="center">
-  <a href="https://ja2hw.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Ja2Hw Dev-log-72EF36?style=for-the-badge&logo=gumtree&logoColor=white"/></a>	
+  <a href="https://ja2hw.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Ja2Hw Devlog-72EF36?style=for-the-badge&logo=gumtree&logoColor=white"/></a>	
 </div>
-	
-## Views
 
-<img src="https://profile-counter.glitch.me/boyamie/count.svg" width="240px" />
-
-## Github Stats
-![boyamie log](https://github-readme-stats.vercel.app/api?username=boyamie&theme=blueberry&show_icons=true)
+![Ja2Hw](https://github-readme-stats.vercel.app/api?username=ja2hw&theme=blueberry&show_icons=true)
 
 </div>
 <!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjagaldol) -->
