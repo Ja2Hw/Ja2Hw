@@ -1,5 +1,5 @@
 ## Ja2Hw Dev-log
-## 개발자 김재환입니다.
+개발자 김재환입니다.
 
 <h3 align="center"> I'm here </h3>  
 <div align="center">
@@ -8,6 +8,7 @@
   <a href="https://ja2hw.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Ja2Hw Devlog-72EF36?style=for-the-badge&logo=gumtree&logoColor=white"/></a>	
 </div>
 
+##
 ![Ja2Hw](https://github-readme-stats.vercel.app/api?username=ja2hw&theme=blueberry&show_icons=true)
 
 </div>
