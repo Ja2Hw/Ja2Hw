@@ -1,5 +1,36 @@
-## Hi there 👋
+## Ja2Hw Dev-log
+## 개발자 김재환입니다.
 
+<h3 align="center"> I'm here </h3>  
+<div align="center">
+	<a href="https://ja2hw.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-E33332?style=for-the-badge&logo=tistory&logoColor=white"/></a> 
+<div align="center">
+  <a href="https://ja2hw.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Ja2Hw Dev-log-72EF36?style=for-the-badge&logo=gumtree&logoColor=white"/></a>	
+</div>
+	
+## Views
+
+<img src="https://profile-counter.glitch.me/boyamie/count.svg" width="240px" />
+
+## Github Stats
+![boyamie log](https://github-readme-stats.vercel.app/api?username=boyamie&theme=blueberry&show_icons=true)
+
+</div>
+<!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjagaldol) -->
+
+<!--
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 <!--
 **Ja2Hw/Ja2Hw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
