@@ -6,7 +6,9 @@
   <h2>🖥️ Ja2Hw Dev-log 🖥️</h2>
 </div>
 <div align="center">
-	<a href="https://ja2hw.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-E33332?style=for-the-badge&logo=tistory&logoColor=white"/></a> <a href="https://ja2hw.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Ja2Hw Devlog-72EF36?style=for-the-badge&logo=gumtree&logoColor=white"/></a>	
+	<a href="https://github.com/Ja2Hw/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> 
+	<a href="https://ja2hw.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-E33332?style=for-the-badge&logo=tistory&logoColor=white"/></a> 
+	<a href="https://ja2hw.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Ja2Hw Devlog-72EF36?style=for-the-badge&logo=gumtree&logoColor=white"/></a>	
 </div><br><br>
 
 <div align="center">
