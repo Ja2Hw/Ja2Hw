@@ -27,7 +27,7 @@
 	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 	<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
- 	<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logoColor=white"> 
+ 	<img src="https://img.shields.io/badge/C++-A8B9CC?style=for-the-badge&logoColor=white"> 
 </div><br><br>
 
 <div align="center">
