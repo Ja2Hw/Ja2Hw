@@ -40,7 +40,7 @@
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 	<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-	<img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
+	<img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white">
 </div><br><br>
 
 ## 
